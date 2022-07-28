@@ -5,3 +5,4 @@ setof = set(sentence)
 for i in setof:
     output[i] = sentence.count(i)
 output
+
